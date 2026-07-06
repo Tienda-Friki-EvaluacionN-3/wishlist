@@ -13,10 +13,10 @@
     </parent>
 
     <groupId>com.tiendafriki</groupId>
-    <artifactId>autenticacion</artifactId>
+    <artifactId>listadeseos</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>autenticacion</name>
-    <description>Proyecto autenticación usuarios</description>
+    <name>listadeseos</name>
+    <description>Proyecto lista de deseos</description>
 
     <properties>
         <java.version>17</java.version>
